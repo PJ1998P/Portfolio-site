@@ -9,6 +9,12 @@ body{
     }
     .tabs{
     text-align: center;
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    background-color: rgb(231, 192, 100);
+
     }
     .tabs a:hover{
     background-color: brown;
