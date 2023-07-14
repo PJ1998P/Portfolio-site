@@ -36,4 +36,9 @@ body{
     .s2{
     padding: 60px;
     }
-    
+    .smile{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
